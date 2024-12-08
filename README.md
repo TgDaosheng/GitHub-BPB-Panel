@@ -1,4 +1,4 @@
-<h1 align="center">💦 BPB面板</h1>
+<h1>💦 BPB面板</h1>
 
 ### 🌏 [BPB面板](https://github.com/bia-pain-bache/BPB-Worker-Panel)项目作者的GitHub地址
 <p align="center">
